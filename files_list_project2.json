@@ -12,7 +12,7 @@
   {
     "file_name": "products_first.parquet",
     "folder_path": "products",
-    "file_name_file" : "product_first"
+    "file_name_file" : "products_first"
   },
   {
     "file_name": "regions.parquet",
