@@ -1,18 +1,22 @@
 [
   {
     "file_name": "customer_first.parquet",
-    "folder_path": "customer"
+    "folder_path": "customer",
+    "file_Name":"customer_first"
   },
   {
     "file_name": "orders_first.parquet",
-    "folder_path": "orders"
+    "folder_path": "orders",
+    "file_Name":"orders_first"
   },
   {
     "file_name": "products_first.parquet",
-    "folder_path": "products"
+    "folder_path": "products",
+    "file_Name":"products_first"
   },
   {
     "file_name": "regions.parquet",
-    "folder_path": "regions"
+    "folder_path": "regions",
+    "file_Name":"regions"
   }
 ]
